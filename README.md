@@ -1,6 +1,6 @@
 # JDBC vs JPA
 
-Depois de aprender um pouco sobre a linguagem #SQL conheci duas especificações essenciais quando vamos trabalhar com banco de dados relacional e persistência de objetos com a linguagem #java , o #JDBC e o #JPA. Por isso, visto tal importância, de uns dias para cá decidi estudar sobre essas tecnologias para tentar me aprofundar no tema. Neste post, falarei sobre o que aprendi até o momento.
+Depois de aprender um pouco sobre a linguagem SQL conheci duas especificações essenciais quando vamos trabalhar com banco de dados relacional e persistência de objetos com a linguagem java , o JDBC e o JPA. Por isso, visto tal importância, de uns dias para cá decidi estudar sobre essas tecnologias para tentar me aprofundar no tema. Neste post, falarei sobre o que aprendi até o momento.
 
 Primeiramente vi que a função principal dessas tecnologias é conectar a aplicação Java com o banco de dados. Engraçado que quando eu estava estudando SQL me perguntava como funcionava esse processo, como as duas camadas eram conectas... Está aí a resposta, rs.
 
